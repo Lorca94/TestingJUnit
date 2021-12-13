@@ -15,7 +15,6 @@ public class CochesService {
 
 
     //Constructor
-    private void CochesService() { }
 
     //Metodos
     //Ver todos los usuarios
